@@ -1,6 +1,6 @@
 # coding=utf-8
 '''
-    App Test Automation with Appium(Python) 
+    App Test Automation with Appium.(Python)
     
     @author: Tony Chang
 '''
